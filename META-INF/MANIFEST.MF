@@ -1,0 +1,3 @@
+Main-Class: EpsteinIsland.Main
+Manifest-Version: 1.0
+
